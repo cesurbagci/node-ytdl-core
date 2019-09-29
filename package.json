@@ -38,7 +38,7 @@
     "@types/node": "^12.6.0",
     "assert-diff": "^2.0.0",
     "istanbul": "^0.4.5",
-    "mocha": "^6.2.0",
+    "mocha": "6.2.0",
     "muk-prop": "^2.0.0",
     "nock": "^11.1.0",
     "sinon": "^7.3.2",
