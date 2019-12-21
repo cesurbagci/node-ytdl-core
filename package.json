@@ -1,5 +1,5 @@
 {
-  "name": "ytdl-core",
+  "name": "cebytdl",
   "description": "Youtube video downloader in pure javascript.",
   "keywords": [
     "youtube",
@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-ytdl-core.git"
+    "url": "git://github.com/cesurbagci/node-ytdl-core.git"
   },
   "author": "fent (https://github.com/fent)",
   "contributors": [
