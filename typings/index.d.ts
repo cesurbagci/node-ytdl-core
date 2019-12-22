@@ -1,4 +1,4 @@
-declare module 'cebytdl' {
+declare module 'ytdl-core' {
   import { ClientRequest } from 'http';
   import { Readable } from 'stream';
 
